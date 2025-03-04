@@ -1,0 +1,13 @@
+.slidebar ul li :hover{
+    background-color: rgb(138, 133, 127);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+
+
+.active {
+    background-color: rgb(138, 133, 127);
+    border-radius: 5px;
+    color: white;
+}
